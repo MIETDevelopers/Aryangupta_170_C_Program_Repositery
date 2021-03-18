@@ -9,6 +9,6 @@ int main(){//int main means that are functon needs to return some integer value
 	if (number%2==0)//if or else statement to check whether number is even or odd
 	printf("\nNumber is even");//printing number is even 
 	 else  
-		printf("Number is odd");//printing number odd
+		printf("Number is odd");//printing number is odd
 	return 0;// success
 }
