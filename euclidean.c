@@ -3,7 +3,7 @@
 //Author: Aryan Gupta
 #include <stdio.h>//preprocessor directive for standard input output
 #include<math.h>// this header file declares a set of functions to perform mathematical operations
-int main()//int main means that are functon needs to return some integer value
+int main()//int main means that functon needs to return some integer value
 {
 	float x1, y1, x2, y2, distance;//variable declaration of float data type
 	printf("Enter point 1 (x1,y1)\n");//printing for taking input to enter point 1
