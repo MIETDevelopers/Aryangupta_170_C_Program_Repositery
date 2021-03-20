@@ -2,7 +2,8 @@
 //Date of creation: 18-03-2021
 //Author: Aryan Gupta
 #include<stdio.h>//preprocessor directive for standard input output
-int main(){//int main means that are functon needs to return some integer value
+int main()//int main means that are functon needs to return some integer value
+{	
 	int number1, number2, sum, subtract, product;//variable declaration of integer data type
 	float remainder;//variable declaration of float data type
 	scanf("%d %d", &number1, &number2);//taking two numbers as input from user

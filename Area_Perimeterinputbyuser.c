@@ -2,7 +2,8 @@
 //Date of creation: 18-03-2021
 //Author: Aryan Gupta
 #include <stdio.h>//preprocessor directive for standard input output
-int main(){//int main means that are functon needs to return some integer value
+int main()//int main means that are functon needs to return some integer value
+{
 	int radiusofcircle, sideofsquare, lengthofrectangle, breadthofrectangle, areaofsquare, perimeterofsquare, areaofrectangle, perimeterofrectangle;//variable declaration of integer data type
 	float areaofcircle, perimeterofcircle;//variable declaration of float data type
 	scanf("%d %d %d %d", &radiusofcircle, &sideofsquare, &lengthofrectangle, &breadthofrectangle);

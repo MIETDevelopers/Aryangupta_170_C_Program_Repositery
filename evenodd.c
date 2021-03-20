@@ -2,7 +2,8 @@
 //Date of creation: 18-03-2021
 //Author: Aryan Gupta
 #include <stdio.h>//preprocessor directive for standard input output
-int main(){//int main means that are functon needs to return some integer value
+int main()//int main means that are functon needs to return some integer value
+{	
 	int number;// integeer variable declaration
 	scanf("\n%d", &number);//read number input by user
 
