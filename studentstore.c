@@ -1,6 +1,6 @@
 // To store information of a student using union
-// Written by -- BHANU VERMA
-// 21-03-2021
+// Written by -- Aryan Gupta
+// 25-03-2021
 
 
 #include <stdio.h> //Pre-Process directive to include standard input and output functions header file
