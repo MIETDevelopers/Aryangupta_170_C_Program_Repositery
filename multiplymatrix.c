@@ -1,6 +1,6 @@
 //Program to perform  matrix multiplication
-//Writted by -- BHANU VERMA
-//21-03-2021
+//Writted by -- Aryan Gupta
+//25-03-2021
 
 
 #include <stdio.h> //Pre-Process directive to include standard input output header file
