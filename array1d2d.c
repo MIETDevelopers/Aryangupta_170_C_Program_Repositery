@@ -1,5 +1,5 @@
 // 1D and 2D arrays passed as arguments to a single function and the function implementation should simply print those arrays passed as arguments
-//Writted by -- BHANU VERMA
+//Writted by -- Aryan Gupta
 //30-03-2021
 
 
