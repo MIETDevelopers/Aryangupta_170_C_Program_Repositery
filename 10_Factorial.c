@@ -1,4 +1,4 @@
-//A C Program to calculate Factorial of a number.               © Ishav Verma 18/March/2021
+//A C Program to calculate Factorial of a number.              Aryan Gupta 4/April/2021
 #include<stdio.h>  
 int main()    
 {    
